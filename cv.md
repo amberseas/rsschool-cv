@@ -19,3 +19,14 @@ So far I don't have real web development experience, but here is my projects fro
 - [My project](https://codepen.io/ambersea/pen/RwjGgzV) from Front-End Mentor challenge.
 - [My project](https://codepen.io/ambersea/pen/RwjGZbV) from Web Development Bootcamp course.
 - [My latest Project](https://codepen.io/ambersea/pen/GROjEzm) from Advanced CSS & Sass course.
+  
+#####Education  
+- 2013-2017 BSc of Nanotechnology, Vilnius University
+- 2021 Women go Tech course
+- 2021 Web Development Bootcamp by Colt Steele
+- 2022 Advanced CSS and Sass by Jonas Schmedtmann
+- 2022(just started) Full Web Development Course
+- 2022 (just started) RS School Javascript course
+  
+#####English level  
+B2, 1 year long course in VU.
